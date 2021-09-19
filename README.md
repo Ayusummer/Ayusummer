@@ -5,8 +5,6 @@
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \Ayusummer\README.md
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ayusummer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ### Hi there 👋
 
@@ -19,3 +17,5 @@
 <a href="https://github.com/Ayusummer">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ayusummer&show_icons=true&include_all_commits=true" />
 </a>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ayusummer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
